@@ -1,5 +1,5 @@
 <picture>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG10MDh5Y2g2YzZnaHh4NW80YXc2aDZvcGpjaDdsMHo5ajNjdGkwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zD6sbCUC4gaBnDUxOE/giphy.webp">
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/zD6sbCUC4gaBnDUxOE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pedro-pascal-nuke-compositing-zD6sbCUC4gaBnDUxOE">via GIPHY</a></p>
 </picture>
 
 Sandwich Buffet is a set of python scripts for The Foundry Nuke, creating popular node setups, applying a certain operation and inverting it back.
