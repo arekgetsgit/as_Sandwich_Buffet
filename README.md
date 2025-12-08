@@ -1,4 +1,5 @@
 
+![Alt text](https://raw.githubusercontent.com/arekgetsgit/as_Sandwich_Buffet/refs/heads/main/PedroNukeSandwichezgif.com-optimize.gif)
 
 Sandwich Buffet is a set of python scripts for The Foundry Nuke, creating popular node setups, applying a certain operation and inverting it back.
 
